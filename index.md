@@ -10,3 +10,5 @@ Hey hi this is my page. I don't know if you wanted the base stuff from the tutor
 
 ## Why?
 **_Because_**
+
+[link to background (test)] (/background)
